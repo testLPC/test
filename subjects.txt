@@ -1,3 +1,6 @@
 Biology
 Computer Science
 Physics
+Math
+Geography
+
